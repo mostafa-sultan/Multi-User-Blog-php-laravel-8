@@ -32,8 +32,8 @@ features:
 
 <img src="screenshot/posts.png" alt="Logo" width="300" >
   <img src="screenshot/megablog.png" alt="Logo" width="300" >
-  <img src="screenshot/FireShot%20Capture%20018%20-%20Mini%20Blog%20-%20127.0.0.1.png" alt="Logo" width="300"  >
-<img src="screenshot/FireShot%20Capture%20015%20-%20Mini%20Blog%20-%20127.0.0.1.png" alt="Logo" width="300"  >
-<img src="screenshot/FireShot%20Capture%20012%20-%20Mini%20Blog%20-%20127.0.0.1.png" alt="Logo" width="200" height="200">
-<img src="screenshot/FireShot%20Capture%20009%20-%20Mini%20Blog%20-%20127.0.0.1.png" alt="Logo" width="200" height="200">
-<img src="screenshot/FireShot%20Capture%20006%20-%20Mini%20Blog%20-%20127.0.0.1.png" alt="Logo" width="200" height="200">
+  <img src="screenshot/FireShot%20Capture%20018%20-%20Mini%20Blog%20-%20127.0.0.1.png" alt="Logo" width="800"  >
+<img src="screenshot/FireShot%20Capture%20015%20-%20Mini%20Blog%20-%20127.0.0.1.png" alt="Logo" width="800"  >
+<img src="screenshot/FireShot%20Capture%20012%20-%20Mini%20Blog%20-%20127.0.0.1.png" alt="Logo" width="800"  >
+<img src="screenshot/FireShot%20Capture%20009%20-%20Mini%20Blog%20-%20127.0.0.1.png" alt="Logo" width="800" >
+<img src="screenshot/FireShot%20Capture%20006%20-%20Mini%20Blog%20-%20127.0.0.1.png" alt="Logo" width="800"  >
